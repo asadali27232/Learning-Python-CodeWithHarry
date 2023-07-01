@@ -1,5 +1,7 @@
 ## Day 3 - Modules and pip in Python!
 
+[Youtube Video Link - CodeWithHarry](https://youtu.be/xwKO_y2gHxQ)
+
 Module is like a code library which can be used to borrow code written by somebody else in our python program. There are two types of modules in python:
 
 - Built in Modules - These modules are ready to import and use and ships with the python interpreter. there is no need to install such modules explicitly.
