@@ -9,14 +9,14 @@ Module is like a code library which can be used to borrow code written by somebo
 
 It can be used as a package manager pip to install a python module. Lets install a module called pandas using the following command
 
-''' sh
+'''sh
 pip install pandas
 '''
 
 Using a module in Python (Usage)
 We use the import syntax to import a module in Python. Here is an example code:
 
-''' sh
+'''python
 import pandas
 
 # Read and work with a file named 'words.csv'
