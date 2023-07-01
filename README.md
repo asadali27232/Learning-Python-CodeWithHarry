@@ -1,9 +1,7 @@
 # Learning-Python-CodeWithHarry
 A comprehensive collection of Python learning resources curated by CodeWithHarry, guiding beginners through the fundamentals and beyond.
 
-## Python for Beginners (Full Course) | #100DaysOfCode Programming Tutorial in Hindi - CodeWithHarry
-
-Welcome to the GitHub repository for the "Python for Beginners" full course by CodeWithHarry. This repository contains code examples and resources corresponding to the 100 videos uploaded on YouTube as part of the #100DaysOfCode programming tutorial in Hindi.
+Welcome to the GitHub repository for the "Python for Beginners" full course by CodeWithHarry. This repository contains code examples and resources corresponding to the 100 videos uploaded on YouTube as part of the Python for Beginners (Full Course) | #100DaysOfCode Programming Tutorial in Hindi - CodeWithHarry.
 
 ## About the Course
 This comprehensive Python course is designed to guide beginners through the fundamentals of Python programming and help them build a solid foundation. The course covers various topics, including data types, control flow, functions, modules, file handling, object-oriented programming, and more. Each video in the playlist corresponds to a specific topic and includes detailed explanations, examples, and exercises to reinforce learning.
