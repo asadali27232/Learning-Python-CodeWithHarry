@@ -33,7 +33,10 @@ for i in range(len(questions)):
             print("--------------------------")
             break
         else:
+            print("--------------------------")
             print("You have", skip, "chances left to skip a question!")
+            print("Your current price is Rs.", price)
+            print("--------------------------")
             continue
     else:
         print("--------------------------")
@@ -55,6 +58,8 @@ for i in range(len(questions)):
         print("--------------------------")
         print("Ready for the next question?")
 else:
+    print("--------------------------")
     print("Congratulations! You won the game!")
     print("You Win a price of Rs.", price)
     print("Game Over!")
+    print("--------------------------")

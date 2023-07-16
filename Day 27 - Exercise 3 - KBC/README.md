@@ -1,4 +1,4 @@
-## Day 26 - Excersice 2: Good Morning Sir
+## Day 27 - Excercise 3: KBC
 
 [Youtube Video Link - CodeWithHarry](https://youtu.be/Vs1Z7K70Mvw)
 
