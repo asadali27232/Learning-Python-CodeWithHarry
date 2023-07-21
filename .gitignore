@@ -1,5 +1,6 @@
 # Ignore the .vscode folder
 .vscode/
+my_venv/
 
 # Ignore other project-specific Python folders
 __pycache__/
