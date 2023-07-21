@@ -1,0 +1,15 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 8A18-6ECD
+
+ Directory of C:\Users\LENOVO\Repos\Learning-Python-CodeWithHarry\Day 46 - OS Module
+
+07/21/2023  06:23 PM    <DIR>          .
+07/21/2023  06:02 PM    <DIR>          ..
+07/21/2023  06:19 PM    <DIR>          data
+07/21/2023  06:23 PM             1,035 main.py
+07/21/2023  06:23 PM                13 myfile.txt
+07/21/2023  06:20 PM    <DIR>          newdir
+07/21/2023  06:23 PM                 0 output.txt
+07/21/2023  06:02 PM             2,605 README.md
+               4 File(s)          3,653 bytes
+               4 Dir(s)  129,624,543,232 bytes free

@@ -4,7 +4,7 @@ if not os.path.exists("data"):
     os.mkdir("data")
 
 for i in range(0, 100):
-    if not os.path.exists("data/Day1"):
+    if not os.path.exists(f"data/Day{i+1}"):
         os.mkdir(f"data/Day{i+1}")
 
 # Open the file in read-only mode
@@ -30,18 +30,18 @@ files = os.listdir(".")
 print(files)  # Output: ['myfile.txt', 'otherfile.txt']
 
 # Create a new directory
-os.mkdir("newdir")
+if not os.path.exists("newdir"):
+    os.mkdir("newdir")
 
 # Run the "ls" command and print the output
-output = os.system("ls")
-print(output)  # Output: ['myfile.txt', 'otherfile.txt']
+output = os.system("dir")
+print(output)
 
 # Run the "ls" command and get the output as a file-like object
-f = os.popen("ls")
+f = os.popen("dir")
 
 # Read the contents of the output
-output = f.read()
-print(output)  # Output: ['myfile.txt', 'otherfile.txt']
+open("output.txt", "w").write(f.read())
 
 # Close the file-like object
 f.close()
