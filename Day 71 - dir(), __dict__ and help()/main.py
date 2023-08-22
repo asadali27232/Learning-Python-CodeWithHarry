@@ -7,6 +7,9 @@ class Person:
 
 p = Person("John", 30)
 print(p.__dict__)
-print(dir(p))
+
 print(help(Person))
 print(help(p))
+
+x = [1, 2, 3]
+print(dir(x))
